@@ -1,0 +1,23 @@
+[
+  {
+    "uuid": "E9462A7ED8A50399E053020011AC0717",
+    "name": "Ewok",
+    "behaviour": "peaceful",
+    "sentience": "sentient",
+    "planets": [
+      "Endor"
+    ]
+  },
+  {
+    "uuid" : "E9462A7ED8A60399E053020011AC0717",
+    "name" : "Human",
+    "behaviour" : "aggressive",
+    "sentience" : "sentient",
+    "planets" :
+    [
+      "Coruscant",
+      "Tatooine",
+      "Endor"
+    ]
+  }
+]

@@ -1,0 +1,1 @@
+sql genso/genso@localhost:1522/XE "@reset_demo.sql"
