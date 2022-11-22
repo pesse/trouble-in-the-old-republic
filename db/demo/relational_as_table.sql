@@ -15,5 +15,5 @@ where
     from species_relational search_s
       inner join species_occurences search_so on search_s.id = search_so.species_id
       inner join planets search_p on search_so.planet_id = search_p.id
-    --where search_p.name = 'Coruscant'
+    where search_p.name = 'Endor'
     );
